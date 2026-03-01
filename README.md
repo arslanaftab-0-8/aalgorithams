@@ -1,1 +1,1 @@
-# aalgorithams
+requires pygame
